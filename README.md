@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/AnTwbH0WJNYAAAAC/hacker-hacker-man.gif/image-scale_900_1528/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://github.com/rkarahul)
+
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">Be Aware Be Safe !</h3>
 <h3 align="center">A passionate Data Science from India</h3>
