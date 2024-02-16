@@ -1,8 +1,8 @@
-![logo](https://gifdb.com/images/high/hacker-you-have-been-hacked-snt8b8zv3tqqm8xa.webp)
+![Rahul Kumar](https://github.com/rkarahul/rkarahul/assets/90387491/2d582b5b-f575-4c7f-b94c-f280816ce72a)
+
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">Be Aware Be Safe !</h3>
 <h3 align="center">A passionate Data Science from India</h3>
-![Rahul Kumar](https://github.com/rkarahul/rkarahul/assets/90387491/3881bd0d-63ef-47d4-8651-783ee469179a)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkarahul&label=Profile%20views&color=0e75b6&style=flat" alt="rkarahul" /> </p>
 
