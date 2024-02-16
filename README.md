@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">Be Aware Be Safe !</h3>
 <h3 align="center">A passionate Data Science from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+![Rahul Kumar](https://github.com/rkarahul/rkarahul/assets/90387491/3881bd0d-63ef-47d4-8651-783ee469179a)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkarahul&label=Profile%20views&color=0e75b6&style=flat" alt="rkarahul" /> </p>
 
