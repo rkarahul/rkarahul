@@ -10,7 +10,7 @@
 
 - I'm looking to collaborate on **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rkarahul](https://github.com/rkarahul)
+- 👨‍💻 All of my projects are available at[https://github.com/rkarahul](https://github.com/rkarahul)](https://github.com/rkarahul?tab=repositories)
 
 - 📫 How to reach me **rahul.kumarbihar245@gmail.com**
 
