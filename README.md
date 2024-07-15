@@ -1,5 +1,4 @@
-![1707516576140](https://github.com/rkarahul/rkarahul/assets/90387491/633d38f3-9fac-423c-9bfc-d645f3e403a7)
-
+![rahuleng](https://github.com/user-attachments/assets/d3addc5b-567d-4b3d-9372-b2118c016edc)
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">Be Aware Be Safe !</h3>
 <h3 align="center">A passionate Data Science from India</h3>
