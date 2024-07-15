@@ -1,19 +1,25 @@
 ![rahuleng](https://github.com/user-attachments/assets/dcdc3b5b-c97f-4659-80b7-68aa179f73fb)
-<h1 al![RAHUL]ign="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">Be Aware Be Safe !</h3>
-<h3 align="center">A passionate AI/ML/COMPUTER VISION from India</h3>
+<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
+<h3 align="center">Be Aware Be Safe!</h3>
+<h3 align="center">A passionate AI/ML and Computer Vision enthusiast hailing from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkarahul&label=Profile%20views&color=0e75b6&style=flat" alt="rkarahul" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rkarahul&label=Profile%20views&color=0e75b6&style=flat" alt="rkarahul" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/rkarahul" target="blank"><img src="https://img.shields.io/twitter/follow/rkarahul?logo=twitter&style=for-the-badge" alt="rkarahul" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/rkarahul" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/rkarahul?logo=twitter&style=for-the-badge" alt="rkarahul" />
+  </a>
+</p>
 
-- I'm looking to collaborate on **AI/ML/COMPUTER VISION**
+- 🌟 I'm looking to collaborate on **AI/ML and Computer Vision projects**
 
-- 👨‍💻 All of my projects are available at https://github.com/rkarahul?tab=repositories
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/rkarahul?tab=repositories)
 
-- 📫 How to reach me **rahul.kumarbihar245@gmail.com**
+- 📫 How to reach me: **rahul.kumarbihar245@gmail.com**
 
-- ⚡ Fun fact **I am funny😂**
+- ⚡ Fun fact: **I am funny 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
