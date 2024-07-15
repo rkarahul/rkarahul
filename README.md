@@ -1,5 +1,5 @@
-<h1 al![RAHUL](https://github.com/user-attachments/assets/aa3b1717-b6d5-4396-bdd2-5f7ec11502c0)
-ign="center">Hi 👋, I'm Rahul Kumar</h1>
+(https://github.com/user-attachments/assets/aa3b1717-b6d5-4396-bdd2-5f7ec11502c0)
+<h1 al![RAHUL]ign="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">Be Aware Be Safe !</h3>
 <h3 align="center">A passionate AI/ML/COMPUTER VISION from India</h3>
 
