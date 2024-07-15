@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/assets/aa3b1717-b6d5-4396-bdd2-5f7ec11502c0)
+![RAHUL](https://github.com/user-attachments/assets/7db2240d-cd7c-4100-b6db-2845bf4d600d)
 <h1 al![RAHUL]ign="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">Be Aware Be Safe !</h3>
 <h3 align="center">A passionate AI/ML/COMPUTER VISION from India</h3>
