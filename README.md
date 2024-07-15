@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 🌟 I'm looking to collaborate on **AI/ML and Computer Vision projects**
+- 🌟 I'm looking to collaborate on **AI/ML and Computer Vision**
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/rkarahul?tab=repositories)
 
