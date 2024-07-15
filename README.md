@@ -35,9 +35,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rkarahul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rkarahul" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkarahul&show_icons=true&locale=en&layout=compact" alt="rkarahul" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkarahul&show_icons=true&locale=en" alt="rkarahul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkarahul&" alt="rkarahul" /></p>
