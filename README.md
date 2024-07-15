@@ -1,5 +1,5 @@
-![rahuleng](https://github.com/user-attachments/assets/d3addc5b-567d-4b3d-9372-b2118c016edc)
-<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
+<h1 al![RAHUL](https://github.com/user-attachments/assets/aa3b1717-b6d5-4396-bdd2-5f7ec11502c0)
+ign="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">Be Aware Be Safe !</h3>
 <h3 align="center">A passionate AI/ML/COMPUTER VISION from India</h3>
 
