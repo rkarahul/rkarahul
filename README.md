@@ -1,13 +1,13 @@
 ![rahuleng](https://github.com/user-attachments/assets/d3addc5b-567d-4b3d-9372-b2118c016edc)
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">Be Aware Be Safe !</h3>
-<h3 align="center">A passionate Data Science from India</h3>
+<h3 align="center">A passionate AI/ML/COMPUTER VISION from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkarahul&label=Profile%20views&color=0e75b6&style=flat" alt="rkarahul" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rkarahul" target="blank"><img src="https://img.shields.io/twitter/follow/rkarahul?logo=twitter&style=for-the-badge" alt="rkarahul" /></a> </p>
 
-- I'm looking to collaborate on **Data Science**
+- I'm looking to collaborate on **AI/ML/COMPUTER VISION**
 
 - 👨‍💻 All of my projects are available at https://github.com/rkarahul?tab=repositories
 
