@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/rkarahul?tab=repositories)
 
-- 📫 How to reach me: **rahul.kumarbihar245@gmail.com**
+- 📫 How to reach me: **rahulcv.ai@gmail.com**
 
 - ⚡ Fun fact: **I am funny 😂**
 
